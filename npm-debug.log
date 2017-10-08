@@ -1,8 +1,8 @@
-0 info it worked if it ends with ok
+h0 info it worked if it ends with ok
 1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
 1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
 1 verbose cli   'run',
-1 verbose cli   'lhite' ]
+1 verbose cli   'lhite' ]hh
 2 info using npm@3.10.10
 3 info using node@v6.11.2nn
 4 verbose run-script [ 'prelite', 'lite', 'postlite' ]
